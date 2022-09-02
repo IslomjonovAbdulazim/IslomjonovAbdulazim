@@ -11,5 +11,5 @@
 * ⚡ Fun fact: ... -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTieMbAHg5eVXSTitFTSqPQIz6cx2s8mHPGxA&usqp=CAU"/>
 </p>
