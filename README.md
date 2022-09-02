@@ -2,6 +2,13 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTieMbAHg5eVXSTitFTSqPQIz6cx2s8mHPGxA&usqp=CAU"/>
 </p>
 
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
+
 ### Hi there 👋
 * 👂 My name is Abdulazim
 <!-- * 👩 Pronouns: ... -->
