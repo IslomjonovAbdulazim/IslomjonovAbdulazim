@@ -26,16 +26,14 @@ located_in: Tashkent, Uzbekistan
 current_job: Student at Pdp
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    234-"school"
+    Pdp Academy
   ]
 company: Pdp
 
 fields_of_interests:
-  [
-    "Web Development",
-    "Mobile Developer",
+  [ 
+    "Flutter Mobile Developer",
   ]
 currently_learning: ["Flutter"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
