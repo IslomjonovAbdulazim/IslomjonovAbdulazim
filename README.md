@@ -22,36 +22,25 @@
 * ⚡ Fun fact: ... -->
 
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
+fullname: Abdulazim Islomjonov
+located_in: Tashkent, Uzbekistan
+current_job: Student at Pdp
 education:
   [
     "Self-Taught Developer and Designer",
     "Master's in Electrical and Computer Engineering",
     "Bachelor's in Electronics and Communication",
   ]
-company: Soulber
+company: Pdp
 
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
+    "Mobile Developer",
   ]
-technical_background:
-  [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
-currently_learning: ["Docker, Kubernetes and React Native"]
+currently_learning: ["Flutter"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+hobbies: ["Football", "Conversasion", "Art"]
   ```
   
   
