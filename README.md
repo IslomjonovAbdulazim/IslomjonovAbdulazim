@@ -1,45 +1,25 @@
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTieMbAHg5eVXSTitFTSqPQIz6cx2s8mHPGxA&usqp=CAU"/>
+<h1 align="center">Hi 👋, I'm Abutolipov Mo'min</h1>
+<h3 align="center">A passionate flutter developer from Uzbekistan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abutolipov&label=Profile%20views&color=0e75b6&style=flat" alt="abutolipov" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/ce/2c/a9/ce2ca922671610b892b1347e094d4d6e.jpg">
+
+- 🌱 I’m currently learning Flutter
+
+- 💬 Ask me about Dart,Flutter,C++
+
+- 📫 How to reach me muminabutolipov@gmail.com
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mumin abutolipov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mumin abutolipov" height="30" width="40" /></a>
+<a href="https://fb.com/mumin_abutolipov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mumin_abutolipov" height="30" width="40" /></a>
+<a href="https://instagram.com/mumin_abutolipov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mumin_abutolipov" height="30" width="40" /></a>
 </p>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> 
-<!-- <img src="[https://www.google.com/search?q=dart&rlz=1C5CHFA_enUZ1018UZ1018&sxsrf=ALiCzsaoQAi2fuH_ZW1NtfKxuoQb4w4TpQ:1662371058774&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjwr8Xjrv35AhVSlYsKHTJPC6IQ_AUoAXoECAIQAw&biw=1512&bih=834&dpr=2#imgrc=4Q15YzdOlL06nM](https://play-lh.googleusercontent.com/qbeCduZblOk80GaY164lw47gIRjXq9QIzSmgFwqQj1PyhNhTWxYR0OqPzm8BumnmJQ)" alt="vscode" width="45" height="45"/> 
-</p> -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-### Hi there 👋
-* 👂 My name is Abdulazim
-<!-- * 👩 Pronouns: ... -->
-<!-- * 🔭 I’m currently working on ... -->
-* 🌱 I’m currently learning Flutter development
-<!-- * 🤝 I’m looking to collaborate on ...
-* 🤔 I’m looking for help with ... -->
-<!-- * 💬 Ask me about  -->
-<!-- * 📫 How to reach me: ...
-* ❤️ I love ...
-* ⚡ Fun fact: ... -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abutolipov&show_icons=true&locale=en&layout=compact" alt="abutolipov" /></p>
 
-```yaml
-fullname: Abdulazim Islomjonov
-located_in: Tashkent, Uzbekistan
-current_job: Student at Pdp
-education:
-  [
-    234-"school"
-    Pdp Academy
-  ]
-company: Pdp
-
-fields_of_interests:
-  [ 
-    "Flutter Mobile Developer",
-  ]
-currently_learning: ["Flutter"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Football", "Conversasion", "Art"]
-  ```
-  
-  
-  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abutolipov&show_icons=true&locale=en" alt="abutolipov" /></p>
