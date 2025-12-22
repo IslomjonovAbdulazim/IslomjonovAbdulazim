@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulazim Islomjonov</h1>
 <h3 align="center">A passionate flutter developer from Uzbekistan</h3>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IslomjonovAbdulazim)](https://git.io/streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abutolipov&label=Profile%20views&color=0e75b6&style=flat" alt="abutolipov" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/ce/2c/a9/ce2ca922671610b892b1347e094d4d6e.jpg">
