@@ -2,10 +2,6 @@
 <h3 align="center">
   Software Engineer • Mobile • Frontend • Backend
 </h3>
-<h1 align="center">Hi 👋, I'm Abdulazim Islomjonov</h1>
-<h3 align="center">
-  Software Engineer • Mobile • Frontend • Backend
-</h3>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
