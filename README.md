@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IslomjonovAbdulazim&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="![IslomjonovAbdulazim's Stats](https://github-readme-stats-fast.vercel.app/api?username=IslomjonovAbdulazim&show_icons=true&theme=dark)" alt="GitHub Streak" />
   </a>  
 </p>
 ---
