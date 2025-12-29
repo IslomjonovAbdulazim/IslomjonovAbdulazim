@@ -3,8 +3,8 @@
   Software Engineer • Mobile • Frontend • Backend
 </h3>
 <p align="center">
-  <a href="https://github.com/IslomjonovAbdulazim">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IslomjonovAbdulazim&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/IslomjonovAbdulazim"> 
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=IslomjonovAbdulazim)](https://git.io/streak-stats)
   </a>
 </p>
 ---
