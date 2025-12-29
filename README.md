@@ -2,7 +2,17 @@
 <h3 align="center">
   Software Engineer • Mobile • Frontend • Backend
 </h3>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IslomjonovAbdulazim)](https://git.io/streak-stats)
+<h1 align="center">Hi 👋, I'm Abdulazim Islomjonov</h1>
+<h3 align="center">
+  Software Engineer • Mobile • Frontend • Backend
+</h3>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=IslomjonovAbdulazim" />
+  </a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
