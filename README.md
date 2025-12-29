@@ -2,10 +2,9 @@
 <h3 align="center">
   Software Engineer • Mobile • Frontend • Backend
 </h3>
-
 <p align="center">
   <a href="https://github.com/IslomjonovAbdulazim">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=IslomjonovAbdulazim&show_icons=true&theme=dark" alt="IslomjonovAbdulazim's Stats" />
+    <img src="https://streak-stats.demolab.com/?user=IslomjonovAbdulazim&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 ---
