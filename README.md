@@ -4,9 +4,9 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="![IslomjonovAbdulazim's Stats](https://github-readme-stats-fast.vercel.app/api?username=IslomjonovAbdulazim&show_icons=true&theme=dark)" alt="GitHub Streak" />
-  </a>  
+  <a href="https://github.com/IslomjonovAbdulazim">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=IslomjonovAbdulazim&show_icons=true&theme=dark" alt="IslomjonovAbdulazim's Stats" />
+  </a>
 </p>
 ---
 
